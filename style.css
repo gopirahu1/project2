@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    margin-left: 500px;
+    
+}
+.c1{
+    width: 40%;
+color: aliceblue;
+    border: 1px solid #23dd4b;
+    background-color: rgb(43, 236, 43);
+} 
